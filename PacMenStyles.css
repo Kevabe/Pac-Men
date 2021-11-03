@@ -1,0 +1,16 @@
+body {
+    background-color: #ebae3d;
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+
+.button {
+    border: 3px solid #2F4858;
+    background-color: transparent;
+    color: #005248;
+    transition: all .25s ease-in-out;
+}
+
+.button:hover {
+    background-color: #005248;
+    color: #ebae3d;
+}
